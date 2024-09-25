@@ -1,0 +1,3 @@
+# Run tests
+- name: Run maven tests
+run: mvn clean test
